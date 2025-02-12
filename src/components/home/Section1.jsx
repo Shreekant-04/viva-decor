@@ -1,7 +1,7 @@
 import image1 from "../../assets/home/section1/1.png";
 import image2 from "../../assets/home/section1/2.png";
 
-export const Section1 = () => {
+const Section1 = () => {
   const stats = [
     { num: "400+", text: "Project Complete" },
     { num: "600+", text: "Satisfied Clients" },
@@ -46,3 +46,5 @@ export const Section1 = () => {
     </section>
   );
 };
+
+export default Section1;
