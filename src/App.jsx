@@ -1,5 +1,5 @@
-import Navbar from "./components/common/Navbar";
-import Main from "./components/Home/Main";
+import Navbar from "./components/common/Navbar.jsx";
+import Main from "./components/Home/Main.jsx";
 
 export default function App() {
   return (
