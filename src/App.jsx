@@ -1,11 +1,11 @@
 import Navbar from "./components/common/Navbar";
-import Home from "./components/Home/Home";
+import Main from "./components/Home/Main";
 
 export default function App() {
   return (
     <>
       <Navbar />
-      <Home />
+      <Main />
     </>
   );
 }
