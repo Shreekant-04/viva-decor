@@ -23,7 +23,7 @@ const Navbar = () => {
 
   return (
     <div
-      className={`border border-black fixed top-0 left-0 w-full h-[70px] md:h-[80px] font-Inter flex items-center justify-between gap-4 md:gap-8 z-[999] text-[#545454] ${
+      className={`border border-black fixed top-0 left-0 w-full h-[50px] md:h-[60px]  font-Inter flex items-center justify-between gap-4 md:gap-8 z-[999] text-[#545454] ${
         isScrolled ? "bg-[#ffffff33] backdrop-blur-sm rounded-b-xl" : ""
       } transition-all duration-200`}
     >
