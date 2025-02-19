@@ -12,19 +12,19 @@ Welcome to the Viva Decor project! This project is dedicated to creating beautif
 
 To get started with Viva Decor, follow these steps:
 
-1. **Clone the Repository**: 
-    ```bash
-    git clone https://github.com/yourusername/viva-decor.git
-    ```
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/viva-decor.git
+   ```
 2. **Install Dependencies**:
-    ```bash
-    cd viva-decor
-    npm install
-    ```
+   ```bash
+   cd viva-decor
+   npm install
+   ```
 3. **Run the Application**:
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
 ## Contributing
 
@@ -34,6 +34,11 @@ We welcome contributions from the community. If you would like to contribute, pl
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a detailed description of your changes.
 
+## Design
+
+You can view design prototypes on Figma:
+
+[View Figma Designs](<https://www.figma.com/design/Hvpjqth7x5k22fATCtMxnH/Interior-Design-Website-UI-Template-(Community)?m=auto&t=E41YicdvxgLO84OV-6>)
 
 
 Thank you for using Viva Decor!

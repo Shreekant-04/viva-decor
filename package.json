@@ -1,7 +1,7 @@
 {
   "name": "viva-decor",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -27,5 +27,12 @@
     "postcss": "^8.5.2",
     "tailwindcss": "^3.4.17",
     "vite": "^6.1.0"
+  },
+  "figma": {
+    "Link": "https://www.figma.com/design/Hvpjqth7x5k22fATCtMxnH/Interior-Design-Website-UI-Template-(Community)?m=auto&t=E41YicdvxgLO84OV-6"
+  },
+  "git": {
+    "repository": "https://github.com/Shreekant-04/viva-decor.git",
+    "branch": "main"
   }
 }
